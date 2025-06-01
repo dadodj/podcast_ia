@@ -1,0 +1,25 @@
+#Técnicas de Engenharia de Prompt:
+
+##Instruções Claras 
+Técnica que organiza o prompt para que as orientações sejam objetivas, detalhadas e colocadas no início para maior clareza. 
+
+##Preparar a saída 
+Defina palavras ou frases no final do prompt que ajudam a moldar o formato da resposta, tornando-a mais estruturada e Clara 
+
+##Solicitação de cadeia de pensamento 
+Instrução para que o modelo responda passo a passo explicando raciocínio até chegar à conclusão final
+
+##Especificar estrutura de saída
+Indica o formato exato da resposta, como JSON ou listas, ajudando a obter resultados organizados e úteis
+
+##Guardrails 
+Técnicas para limitar respostas, evitando conteúdos prejudiciais, irrelevantes ou incorretos, alinhando o modelo a padrões éticos 
+
+##Adicionar sintaxe clara 
+Organiza o prompt com formatações, como letras, títulos ou tabelas, tornando as instruções mais visuais e compreensíveis 
+
+##Dividir a tarefa 
+Quebra uma tarefa complexa em várias etapas menores, facilitando para o modelo responder de forma lógica e organizada 
+
+##Repetir instruções no final
+Reforça as orientações no final do prompt para garantir que o modelo compreenda e siga a tarefa proposta sem desvios
